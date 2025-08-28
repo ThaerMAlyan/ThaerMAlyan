@@ -79,15 +79,21 @@
 
 ---
 
- ### 📊 **Knowledge & Skills (Approximate %):**
-```txt
-Laravel / PHP        ████████████████████████  90%
-SQL / Databases      ██████████████████████░░  85%
-Java                 █████████████████████░░░  80%
-JavaScript           ████████████████████░░░░  75%
-HTML / CSS           ████████████████████░░░░  70%
-Bootstrap            ███████████████████░░░░  68%
-Tailwind CSS         ██████████████████░░░░░  65%
-Hostinger            ██████████████████░░░░░  65%
-Git / GitHub         ██████████████████░░░░░  65%
+### 📊 Knowledge & Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-90%25-red?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-90%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-85%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-80%25-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-70%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-98%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-75%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-90%25-6747C7?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-85%25-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
