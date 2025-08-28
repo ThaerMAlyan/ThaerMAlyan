@@ -78,6 +78,16 @@
 
 ---
 
+
+### 🚀 Featured Projects
+
+- **[موقع مؤسسة سنابل](https://senabil-pal.org/)**  
+  موقع رسمي للمؤسسة مع لوحة تحكم داخلية، تم تطويره باستخدام **Laravel + Next.js** مع نظام دخول موحد.  
+
+- **[لوحة تحكم مؤسسة سنابل](https://s1.sanabelpanel.com/)**  
+  لوحة تحكم إدارية متقدمة مبنية باستخدام **Laravel** لإدارة المحتوى والبيانات الخاصة بالمؤسسة.
+ ---
+
 ### 🧰 Toolbox & Practices
 - Clean Architecture • Repository Pattern • Form Request Validation  
 - Eloquent Relationships • Migrations & Seeders • Queues & Jobs  
