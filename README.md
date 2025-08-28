@@ -66,10 +66,10 @@
 <progress value="70" max="100">70%</progress> 70%
 
 **Hostinger (Deploy/Domain/SSL/CDN)**
-<progress value="68" max="100">68%</progress> 68%
+<progress value="68" max="100">68%</progress> 88%
 
 **Git / GitHub**
-<progress value="65" max="100">65%</progress> 65%
+<progress value="65" max="100">85%</progress> 95%
 </div>
 
 ---
