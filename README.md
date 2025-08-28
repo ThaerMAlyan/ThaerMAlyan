@@ -48,29 +48,15 @@
 
 ### 📊 Skills (approx.)
 <!-- استخدم progress bars لعرض قوة المهارة -->
-<div>
+### 📊 **Knowledge & Skills (Approximate %):**
 
-**Laravel / PHP**
-<progress value="90" max="100">90%</progress> 90%
-
-**SQL / Databases**
-<progress value="85" max="100">85%</progress> 85%
-
-**Java**
-<progress value="80" max="100">80%</progress> 80%
-
-**JavaScript**
-<progress value="75" max="100">75%</progress> 75%
-
-**HTML / CSS**
-<progress value="70" max="100">70%</progress> 70%
-
-**Hostinger (Deploy/Domain/SSL/CDN)**
-<progress value="68" max="100">68%</progress> 68%
-
-**Git / GitHub**
-<progress value="65" max="100">65%</progress> 65%
-</div>
+Laravel / PHP        ████████████████████████  90%
+SQL / Databases      ██████████████████████░░  85%
+Java                 █████████████████████░░░  80%
+JavaScript           ████████████████████░░░░  75%
+HTML / CSS           ████████████████████░░░░  70%
+Hosting (Hostinger)  ███████████████████░░░░  68%
+Git / GitHub         ████████████████████░░░░  65%
 
 ---
 
@@ -89,19 +75,6 @@
 - ✳️ نشر مشروع على Hostinger + ربط Domain + SSL
 
 > *(أضف روابط الريبو/الديمو لما تجهزها)*
-
----
-
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=gotham" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gotham" alt="top langs" />
-</p>
 
 ---
 
