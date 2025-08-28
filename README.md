@@ -56,35 +56,6 @@
 
 ---
 
-### 📊 Skills (approx.)
-<!-- استخدم progress bars لعرض قوة المهارة -->
-<div>
-
-**Laravel / PHP**
-<progress value="90" max="100">90%</progress> 90%
-
-**SQL / Databases**
-<progress value="85" max="100">85%</progress> 85%
-
-**Java**
-<progress value="80" max="100">80%</progress> 80%
-
-**JavaScript**
-<progress value="75" max="100">75%</progress> 75%
-
-**HTML / CSS**
-<progress value="70" max="100">70%</progress> 70%
-
-**Hostinger (Deploy/Domain/SSL/CDN)**
-<progress value="68" max="100">68%</progress> 88%
-
-**Git / GitHub**
-<progress value="65" max="100">85%</progress> 95%
-</div>
-
----
-
-
 ### 🚀 Featured Projects
 
 - **[موقع مؤسسة سنابل](https://senabil-pal.org/)**  
@@ -105,3 +76,18 @@
 - Auth (Sanctum/Passport) • Policies/Permissions • Notifications  
 - Caching (Redis) • Logs & Monitoring • Error Handling  
 - CI basics • .env management • Backup & Storage (S3/Local)
+
+---
+
+ ### 📊 **Knowledge & Skills (Approximate %):**
+```txt
+Laravel / PHP        ████████████████████████  90%
+SQL / Databases      ██████████████████████░░  85%
+Java                 █████████████████████░░░  80%
+JavaScript           ████████████████████░░░░  75%
+HTML / CSS           ████████████████████░░░░  70%
+Bootstrap            ███████████████████░░░░  68%
+Tailwind CSS         ██████████████████░░░░░  65%
+Hostinger            ██████████████████░░░░░  65%
+Git / GitHub         ██████████████████░░░░░  65%
+
