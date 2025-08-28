@@ -30,6 +30,12 @@
 
 ---
 
+### ☕ Support
+إذا حبيت شغلي، ممكن تدعمني بكاسة قهوة:
+<a href="https://www.buymeacoffee.com/" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" alt="Buy me a coffee" />
+</a>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -86,6 +92,11 @@
 
 - **[لوحة تحكم مؤسسة سنابل](https://s1.sanabelpanel.com/)**  
   لوحة تحكم إدارية متقدمة مبنية باستخدام **Laravel** لإدارة المحتوى والبيانات الخاصة بالمؤسسة.
+
+  - ✳️ لوحة تحكم لمؤسسة خيرية (Laravel + MySQL + Roles/Permissions)  
+- ✳️ نظام API لإدارة مشاريع/شركاء مع توثيق Postman  
+- ✳️ نشر مشروع على Hostinger + ربط Domain + SSL
+
  ---
 
 ### 🧰 Toolbox & Practices
@@ -94,19 +105,3 @@
 - Auth (Sanctum/Passport) • Policies/Permissions • Notifications  
 - Caching (Redis) • Logs & Monitoring • Error Handling  
 - CI basics • .env management • Backup & Storage (S3/Local)
-
----
-
-### 🚀 Featured Work
-- ✳️ لوحة تحكم لمؤسسة خيرية (Laravel + MySQL + Roles/Permissions)  
-- ✳️ نظام API لإدارة مشاريع/شركاء مع توثيق Postman  
-- ✳️ نشر مشروع على Hostinger + ربط Domain + SSL
-
-
----
-
-### ☕ Support
-إذا حبيت شغلي، ممكن تدعمني بكاسة قهوة:
-<a href="https://www.buymeacoffee.com/" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" alt="Buy me a coffee" />
-</a>
