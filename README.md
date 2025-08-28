@@ -64,7 +64,6 @@
 - **[لوحة تحكم مؤسسة سنابل](https://s1.sanabelpanel.com/)**  
   لوحة تحكم إدارية متقدمة مبنية باستخدام **Laravel** لإدارة المحتوى والبيانات الخاصة بالمؤسسة.
 
-  - ✳️ لوحة تحكم لمؤسسة خيرية (Laravel + MySQL + Roles/Permissions)  
 - ✳️ نظام API لإدارة مشاريع/شركاء مع توثيق Postman  
 - ✳️ نشر مشروع على Hostinger + ربط Domain + SSL
 
@@ -95,5 +94,18 @@
   <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-85%25-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gotham" />
+</p>
+
+---
+
 
 
