@@ -100,10 +100,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gotham" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaerMAlyan&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaerMAlyan&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaerMAlyan&layout=compact&theme=gotham" />
 </p>
+
 
 ---
 
