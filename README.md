@@ -97,7 +97,7 @@
 
 ---
 
-### 🚀 Featured Work (optional)
+### 🚀 Featured Work
 - ✳️ لوحة تحكم لمؤسسة خيرية (Laravel + MySQL + Roles/Permissions)  
 - ✳️ نظام API لإدارة مشاريع/شركاء مع توثيق Postman  
 - ✳️ نشر مشروع على Hostinger + ربط Domain + SSL
