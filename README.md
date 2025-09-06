@@ -32,7 +32,7 @@
 
 ### ☕ Support
 <p align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank">
+  <a href="https://senabil-pal.org/" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="200" alt="Buy me a coffee" />
   </a>
 </p>
